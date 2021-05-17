@@ -8,7 +8,7 @@ Instructions on installing Terminator v2 with centos7.4 on deprecated python3.4
 ```
 # Create venv on pyton34
 
-I've used pycharm (version <= 2019.3) to handle the venv but you might as well set it up manually or us the main interpreter.
+I've used pycharm (version <= 2019.3) to handle the venv but you might as well set it up manually or use the main interpreter.
 
 Note that your venv must be setup with setuptools version <44 to support python 3.4
 
